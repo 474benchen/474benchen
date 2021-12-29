@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Benjamin Chen.
+- I'm currently pursuing a Data Science B.S. at UCSD
+- Seeking internships in Data Science.
+- My interests are: Animation, Video Editing, Video Games, VR, and Design.
 
 <!--
 **474benchen/474benchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
